@@ -3,12 +3,12 @@ entries:
   eventapp-lab03:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-31T19:19:14.1912415+09:00"
+    created: "2020-08-31T20:31:57.4787603+09:00"
     description: A Helm chart for Kubernetes
-    digest: 01d325f1ed7b5f861b32c4e3cbb5b47e7c424aef1dc9dfa2836f88b9c00fb93a
+    digest: babf0edebd4aa1f67ce1ddcc24c4ed050a37351184ab24c4caf572f8ac16b454
     name: eventapp-lab03
     type: application
     urls:
     - https://yoojin-lab03.github.io/mycharts/eventapp-lab03-0.1.0.tgz
     version: 0.1.0
-generated: "2020-08-31T19:19:14.1912415+09:00"
+generated: "2020-08-31T20:31:57.477817+09:00"
